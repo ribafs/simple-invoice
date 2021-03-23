@@ -17,6 +17,10 @@ Instalación en windows (servidor local)
 
 6- Vista web: http://localhost/simple_invoice/
 
-7- Datos de acceso por defecto: usuario: admin y contraseña: admin
+## 7- Datos de acceso por defecto: 
+
+usuario: admin 
+y 
+contraseña: admin
 
 Para más información visita: http://obedalvarado.pw/simple-invoice/
